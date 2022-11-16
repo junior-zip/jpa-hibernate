@@ -12,7 +12,6 @@ INDEX VERSION 1.131+D:\junio\java\ws-sts\.metadata\.plugins\org.eclipse.jdt.core
 3620203886.index
 1866122811.index
 1603077843.index
-1311388581.index
 2482341340.index
 3350918968.index
 128360814.index
